@@ -14,24 +14,28 @@ After passing the username through the 4 arguments, If the username Follows all 
 A) 
 Input:
 > MichaelBJordan97
+
 Output:
 >True
 
 B) 
 Input:
 >1122John
+
 Output:
 >False
 
 C)
 Input:
 >Andrew@Tate
+
 Output:
 >False
 
 D)
 Input:
 >Lonely_Developer_
+
 Output:
 >False
 
