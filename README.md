@@ -18,6 +18,7 @@ Input:
 Output:
 >True
 
+
 B) 
 Input:
 >1122John
@@ -25,12 +26,14 @@ Input:
 Output:
 >False
 
+
 C)
 Input:
 >Andrew@Tate
 
 Output:
 >False
+
 
 D)
 Input:
